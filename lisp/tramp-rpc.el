@@ -5,7 +5,6 @@
 ;; Author: Arthur Heymans <arthur@aheymans.xyz>
 ;; Version: 0.8.0
 ;; Keywords: comm, processes, files
-;; Package-Requires: ((emacs "30.1") (msgpack "0") (tramp "2.8.1.3"))
 
 ;; This file is part of tramp-rpc.
 
